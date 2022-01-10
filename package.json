@@ -1,0 +1,15 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "My first node project (node farm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amar kuamr",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "slugify": "^1.6.0"
+  }
+}
